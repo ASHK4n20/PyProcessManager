@@ -20,7 +20,7 @@ A Python-based process manager similar to PM2, with both CLI and GUI interfaces.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PyProcessManager.git
+git clone https://github.com/ASHK4n20/PyProcessManager.git
 cd PyProcessManager
 
 # Install the package
